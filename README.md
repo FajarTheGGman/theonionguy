@@ -1,5 +1,5 @@
 # theonionguy
- #Simple Phising Tools With Tracking Features
+ #Simple Script for hosting nginx server to tor
 
 ![](https://img.shields.io/badge/Framework-Nodejs-lime) ![](https://img.shields.io/badge/Version-1.0-blue)
 
