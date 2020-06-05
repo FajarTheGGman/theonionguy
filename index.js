@@ -46,7 +46,7 @@ file.readFile('./config/domain.txt', (err, data) => {
 
 console.log(style.bgGreen("[+] All Done.."))
 
-console.log(syyle.yellow("[+] Starting the server..."))
+console.log(style.yellow("[+] Starting the server..."))
 sys.exec("sudo service tor start");
 sys.exec("sudo service nginx start");
 
