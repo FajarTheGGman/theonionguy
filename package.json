@@ -1,0 +1,25 @@
+{
+  "name": "theonionguy",
+  "version": "1.0.0",
+  "description": "Simple Script for hosting nginx server to tor",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "tools"
+  ],
+  "dependencies": {
+    "chalk": "*",
+    "cowsay2": "*",
+    "duckiesay": "^2.0.6",
+    "fs": "*",
+    "jsome": "*",
+    "ora": "*",
+    "shelljs": "*",
+    "yargs": "*"
+  },
+  "author": "FajarTheGGman",
+  "license": "ISC"
+}
