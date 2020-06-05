@@ -34,6 +34,11 @@ after intalling ubuntu
 6.bash install.sh
 </pre>
 
+# How To Change Index Web ?
+<pre>
+Just edit the index.html on template folder and type node index.js --install
+</pre>
+
 # How To Run ? 
 
 <pre>
