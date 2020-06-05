@@ -16,7 +16,7 @@ echo -e $green "[=================]\n"
 echo -e $cyan "[/] Please Wait...."
 mkdir ubuntu
 cd ubuntu
-apt-get install git proot wget openssl-tool -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/Anlinux-Resources/master/Scripts/Installer/Ubuntu/ubuntu.sh 
-chmod +x ubuntu.sh
-./ubuntu.sh
+apt-get install git proot wget openssl-tool -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/Anlinux-Resources/master/Scripts/Installer/Debian/debian.sh
+chmod +x debian.sh
+./debian.sh
 ./start-ubuntu.sh
