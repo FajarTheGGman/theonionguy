@@ -23,6 +23,8 @@ Linux
 Termux
 
 <pre>
+Type bash install_termux.sh
+
 after intalling ubuntu
 1. ./start-ubuntu.sh
 2.apt-get update 
