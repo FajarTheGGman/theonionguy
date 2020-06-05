@@ -32,10 +32,11 @@ Install ubuntu on termux
 
 after intalling ubuntu
 1. ./start-ubuntu.sh
-2.sudo apt-get install git -y
-3.git clone https://github.com/FajarTheGGman/theonionguy
-4.cd theonionguy
-5.bash install.sh
+2.apt-get update 
+3.apt-get install git sudo -y
+4.git clone https://github.com/FajarTheGGman/theonionguy
+5.cd theonionguy
+6.bash install.sh
 </pre>
 
 # How To Run ? 

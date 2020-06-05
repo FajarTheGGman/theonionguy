@@ -12,6 +12,6 @@ echo -e $green "[=================]"
 echo -e $blue "TheOnionGuy By FajarTheGGman"
 echo -e $green "[=================]\n"
 
-sudo apt-get install nodejs -y
+sudo apt-get install nodejs npm -y
 npm install
 npm start --cmd
