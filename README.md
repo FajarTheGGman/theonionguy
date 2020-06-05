@@ -16,16 +16,25 @@ Linux
 <pre>
 1.sudo apt-get install git -y
 2.git clone https://github.com/FajarTheGGman/knowyourself
-3.cd knowyourself
-5.sudo bash install.sh
+3.cd theonionguy
+5.bash install.sh
 </pre>
 
 Termux
 
 <pre>
-1.apt-get install git -y
-2.git clone https://github.com/FajarTheGGman/knowyourself
-3.cd knowyourself
+Install ubuntu on termux
+1.apt-get install git proot wget -y
+2.git clone https://github.com/Neo-Oli/termux-ubuntu.git
+3.cd termux-ubuntu
+4.chmod +x ubuntu.sh
+5. ./ubuntu.sh
+
+after intalling ubuntu
+1. ./start-ubuntu.sh
+2.sudo apt-get install git -y
+3.git clone https://github.com/FajarTheGGman/theonionguy
+4.cd theonionguy
 5.bash install.sh
 </pre>
 
