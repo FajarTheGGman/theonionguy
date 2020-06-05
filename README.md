@@ -41,7 +41,7 @@ after intalling ubuntu
 # How To Run ? 
 
 <pre>
-Just type npm start
+Just type node index.js
 </pre>
 
 # Support Me :)
