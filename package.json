@@ -14,7 +14,6 @@
     "chalk": "*",
     "cowsay2": "*",
     "duckiesay": "^2.0.6",
-    "fs": "*",
     "jsome": "*",
     "ora": "*",
     "shelljs": "*",

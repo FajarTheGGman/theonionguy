@@ -23,13 +23,6 @@ Linux
 Termux
 
 <pre>
-Install ubuntu on termux
-1.apt-get install git proot wget -y
-2.git clone https://github.com/Neo-Oli/termux-ubuntu.git
-3.cd termux-ubuntu
-4.chmod +x ubuntu.sh
-5. ./ubuntu.sh
-
 after intalling ubuntu
 1. ./start-ubuntu.sh
 2.apt-get update 
