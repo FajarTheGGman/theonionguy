@@ -12,7 +12,7 @@ echo -e $green "[=================]"
 echo -e $blue "TheOnionGuy By FajarTheGGman"
 echo -e $green "[=================]\n"
 
-udo apt-get update -y
+sudo apt-get update -y
 sudo apt-get install tor nginx ufw nodejs npm -y
 sudo ufw allow 'Nginx HTTP'
 sudo ufw reload
