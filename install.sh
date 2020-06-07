@@ -17,4 +17,4 @@ sudo apt-get install tor nginx ufw nodejs npm -y
 sudo ufw allow 'Nginx HTTP'
 sudo ufw reload
 npm install
-npm start --cmd
+node index.js --cmd
