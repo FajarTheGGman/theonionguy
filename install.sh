@@ -12,6 +12,9 @@ echo -e $green "[=================]"
 echo -e $blue "TheOnionGuy By FajarTheGGman"
 echo -e $green "[=================]\n"
 
-sudo apt-get install nodejs npm -y
+udo apt-get update -y
+sudo apt-get install tor nginx ufw nodejs npm -y
+sudo ufw allow 'Nginx HTTP'
+sudo ufw reload
 npm install
 npm start --cmd
