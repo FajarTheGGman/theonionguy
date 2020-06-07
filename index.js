@@ -13,7 +13,8 @@ console.log(style.yellow(cowsay.say('The Onion Guy :V')))
 jsome({
     Coder: "FajarTheGGman",
     IG: "FajarTheGGman",
-    Github: "FajarTheGGman"
+    Github: "FajarTheGGman",
+    YT: "iTech7732"
 })
 
 console.log(style.blue("[!] You got some error ? Contact Me :)"))
