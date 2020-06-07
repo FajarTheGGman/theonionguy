@@ -20,20 +20,6 @@ Linux
 5.bash install.sh
 </pre>
 
-Termux
-
-<pre>
-Type bash install_termux.sh
-
-after intalling ubuntu
-1. ./start-ubuntu.sh
-2.apt-get update 
-3.apt-get install git sudo -y
-4.git clone https://github.com/FajarTheGGman/theonionguy
-5.cd theonionguy
-6.bash install.sh
-</pre>
-
 # How To Change Index Web ?
 <pre>
 Just edit the index.html on template folder and type node index.js --install
