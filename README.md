@@ -17,7 +17,8 @@ Linux
 1.sudo apt-get install git -y
 2.git clone https://github.com/FajarTheGGman/knowyourself
 3.cd theonionguy
-5.bash install.sh
+4.bash install.sh
+5.node index.js --install
 </pre>
 
 # How To Change Index Web ?
