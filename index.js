@@ -23,10 +23,6 @@ if(argue.install){
 console.log(style.bgGreen("[/] Installing Package..."))
 
 // Setup The Dependencies
-sys.exec("sudo apt-get update -y")
-sys.exec("sudo apt-get install tor nginx ufw -y");
-sys.exec("sudo ufw allow 'Nginx HTTP'");
-sys.exec("sudo ufw reload");
 sys.exec("sudo service nginx stop");
 sys.exec("sudo service tor stop");
 sys.exec("sudo rm /etc/nginx/sites-available/default")
